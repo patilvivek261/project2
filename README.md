@@ -1,10 +1,16 @@
 #Comments from Vivek I. Patil
 I have stated developing website in CodeIgniter4 with help of free downloadable templates from internet.
+
 I have created basefiles for home, inner page(about), Porfolio page to create multiple page
+
 I have created Sample page as following with access link
+
 Home 		:	https://localhost/project2/HomeController/home
+
 About		:	https://localhost/project2/AboutController/about
+
 Portfolio	:	https://localhost/project2/PortfolioController/portfolio
+
  
 
 # CodeIgniter 4 Application Starter
